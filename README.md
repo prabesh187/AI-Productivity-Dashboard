@@ -49,6 +49,8 @@ All data is stored locally in your browser using LocalStorage:
 - ✅ Free forever
 
 <img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/22302f88-2f9f-4275-8fd2-9edc178bd1a7" /><br>
-<img width="1911" height="906" alt="image" src="https://github.com/user-attachments/assets/282a2fb4-afdb-45f3-aadd-bb4938b1f753" />
+<img width="1911" height="906" alt="image" src="https://github.com/user-attachments/assets/282a2fb4-afdb-45f3-aadd-bb4938b1f753" /><br>
+<img width="1903" height="784" alt="image" src="https://github.com/user-attachments/assets/f22d138b-03d4-47b9-8326-6d729b69cf27" />
+
 
 
